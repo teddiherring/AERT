@@ -1,7 +1,7 @@
 **[contents](#Contents) | [setup](#Setup) | [running the notebooks](#running-the-notebooks) | [issues](#issues)**
 
 # A-ERT
-Notebook to support the publication *Detecting short- and long-term changes in permafrost and active layer dynamics in the Maritime Antarctic with automated electrical resistivity tomography* (Farzamian et al., in prep.)
+Notebook to support the publication *Employing Automated Electrical Resistivity Tomography for detecting short- and long-term changes in permafrost and active layer dynamics in the Maritime Antarctic* (Farzamian et al., in prep.)
 
 ## Contents
 
@@ -33,7 +33,7 @@ You can use the provided conda environment to set up the necessary software pack
 
 ```
 conda env create -f environment.yml
-conda activate idgsp
+conda activate aert
 ```
 
 Next, running the following command

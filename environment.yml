@@ -1,4 +1,4 @@
-name: idgsp
+name: aert
 channels:
   - conda-forge
   - defaults
