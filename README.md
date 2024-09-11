@@ -8,8 +8,7 @@ Notebook to support the publication *Employing Automated Electrical Resistivity 
 This repository contains:
 
 1. [notebook for data processing](./data_processing_AERT.ipynb): This notebook contains code for automated filtering and inversion of large A-ERT datasets, as well as useful plotting tools.
-2. [data files](./data_AERT): This folder contains the A-ERT data files.
-3. Additional climate and borehole data
+2. [data files](./data_AERT): This folder contains the A-ERT data files, including raw input data, inverted data, and site data (probed thaw layer depths, climate data, and borehole data).
  
 ## Setup
 
