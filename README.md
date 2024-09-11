@@ -1,11 +1,11 @@
 **[contents](#Contents) | [setup](#Setup) | [running the notebooks](#running-the-notebooks) | [issues](#issues)**
 
 # A-ERT
-Notebook to support the publication *Employing Automated Electrical Resistivity Tomography for detecting short- and long-term changes in permafrost and active layer dynamics in the Maritime Antarctic* (Farzamian et al., in prep.)
+Notebook to support the publication *Employing Automated Electrical Resistivity Tomography for detecting short- and long-term changes in permafrost and active layer dynamics in the Maritime Antarctic* (Farzamian et al., submitted to The Cryosphere)
 
 ## Contents
 
-This respository containsr:
+This repository contains:
 
 1. [notebook for data processing](./data_processing_AERT.ipynb): This notebook contains code for automated filtering and inversion of large A-ERT datasets, as well as useful plotting tools.
 2. [data files](./data_AERT): This folder contains the A-ERT data files.
