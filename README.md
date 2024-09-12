@@ -1,6 +1,9 @@
 **[contents](#Contents) | [setup](#Setup) | [running the notebooks](#running-the-notebooks) | [issues](#issues)**
 
 # A-ERT
+
+[![DOI](https://zenodo.org/badge/593850015.svg)](https://zenodo.org/doi/10.5281/zenodo.13754726)
+
 Notebook to support the publication *Employing Automated Electrical Resistivity Tomography for detecting short- and long-term changes in permafrost and active layer dynamics in the Maritime Antarctic* (Farzamian et al., submitted to The Cryosphere)
 
 ## Contents
